@@ -6,7 +6,7 @@
         "mcp-remote@latest",
         "https://mcp.retellai.com",
         "--header",
-        "Authorization:Bearer <RETELL_API_KEY>"
+        "Authorization:Bearer ${env:RETELL_API_KEY}"
       ]
     }
   }
