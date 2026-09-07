@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+*.mp4
+*.mov
+*.m4v
+*.webm
+.DS_Store
